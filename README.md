@@ -1,4 +1,4 @@
-# DEMON ĐƠN GIẢN SIGN UP VÀ SIGN IN SỬ DỤNG MONGODB
+# DEMO ĐƠN GIẢN SIGN UP VÀ SIGN IN SỬ DỤNG MONGODB
 
 # Hướng dẫn cài đặt để bắt đầu có thể làm project đơn giản
 - bước 1: Tải MongoDB và NODEJS về rồi cài đặt mt cho nó , tạo 1 folder
