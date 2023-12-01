@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>SignIn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            /* Chỉnh định hình thành cột dọc */
+            align-items: center;
+            /* Căn giữa theo chiều ngang */
+            justify-content: center;
+            height: 100vh;
+        }
+
+        h1 {
+            text-align: center;
+            color: #a50707;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.1);
+            margin-top: 20px;
+            /* Thêm margin giữa tiêu đề và form */
+        }
+
+        p {
+            margin: 0;
+            padding: 10px 0;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #4caf50;
+            color: white;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Demo Sản Phẩm</h1>
+    <form action="" method="post" accept-charset="utf-8">
+        <p> Username: <input type="text" name="username" /> </p>
+        <p> Email: <input type="text" name="email" /></p>
+        <p> Password: <input type="password" name="password" /> </p>
+        <p>Don't have an account? <a href="/signup">Sign up</a></p>
+        <p> <input type="submit"> </p>
+    </form>
+</body>
+
+</html>
