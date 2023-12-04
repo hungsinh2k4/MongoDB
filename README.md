@@ -9,6 +9,10 @@
 - bước 6: để người dùng có thể nhập vào thì ta cần thêm body-parser "npm install -save body-parser"
 - bước 7: chúng ta cùng viết code thôi hihi
 
+# Chức năng
+- khi đăng ký người dùng sẽ lấy cập nhật dữ liệu vào database
+- dữ liệu đấy sẽ dùng để đăng nhập
+
 # Image 
 ![image](https://github.com/hungsinh2k4/MongoDB/assets/117707758/bbc33048-949a-400e-bcb0-36b9f0caac40)
 
