@@ -8,3 +8,8 @@
 - bước 5: để render thì ta cài tiếp ejs "npm install -save ejs"
 - bước 6: để người dùng có thể nhập vào thì ta cần thêm body-parser "npm install -save body-parser"
 - bước 7: chúng ta cùng viết code thôi hihi
+
+# Image 
+![image](https://github.com/hungsinh2k4/MongoDB/assets/117707758/bbc33048-949a-400e-bcb0-36b9f0caac40)
+
+![image](https://github.com/hungsinh2k4/MongoDB/assets/117707758/50a00619-903f-4d59-89a3-d708d781751a)
