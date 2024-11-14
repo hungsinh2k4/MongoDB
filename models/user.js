@@ -8,5 +8,6 @@ const userSchema = new mongoose.Schema({
 
 const user = mongoose.model("User", userSchema);
 console.log("User model created");
+console.log(user);
 
 module.exports = user;
